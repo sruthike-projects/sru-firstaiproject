@@ -1,2 +1,2 @@
 # sru-firstaiproject
-This is my first AI pro.
+This is my first project
